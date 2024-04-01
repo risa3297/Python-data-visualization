@@ -1,0 +1,17 @@
+outlook
+sunny 2
+overcast 0 
+rain 1
+
+temp 
+hot 1
+mild 2
+cool 0
+
+humidity
+high 0
+normal 1
+
+wind
+weak 1
+strong 0
